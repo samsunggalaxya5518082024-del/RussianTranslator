@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Android
+local.properties
+*.jks
+*.keystore
+
+# Kotlin
+out/
+*.kt.bak
+
+# Build files
+bin/
+gen/
+
+# Editor
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
