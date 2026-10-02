@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Russian Translator</string>
+    <string name="accessibility_service_label">Russian Translator Service</string>
+    <string name="toggle_service">Перевод</string>
+    <string name="translation_enabled">Перевод активен</string>
+    <string name="translation_disabled">Перевод выключен</string>
+    <string name="enable_accessibility">Включить доступность</string>
+</resources>

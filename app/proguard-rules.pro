@@ -1,0 +1,2 @@
+-keep class com.example.russiantranslator.MainActivity
+-keep class com.example.russiantranslator.TranslatorAccessibilityService
